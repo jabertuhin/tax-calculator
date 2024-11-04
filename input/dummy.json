@@ -1,0 +1,39 @@
+{
+  "gender": "Male",
+  "income": {
+    "salaries": [
+      {
+        "amount": 80000,
+        "times": 6
+      },
+      {
+        "amount": 95000,
+        "times": 6
+      }
+    ],
+    "bonuses": [
+      {
+        "amount": 40000,
+        "festivalName": "Eid-Ul-Fitr"
+      },
+      {
+        "amount": 47500,
+        "festivalName": "Eid-Ul-Adha"
+      }
+    ],
+    "profitFromInvestments": [
+      {
+        "amount": 5000,
+        "name": "iFarmer"
+      },
+      {
+        "amount": 1000,
+        "name": "biniyog.io"
+      },
+      {
+        "amount": 2000,
+        "name": "The City Bank (DPS)"
+      }
+    ]
+  }
+}
